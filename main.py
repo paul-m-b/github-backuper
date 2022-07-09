@@ -1,8 +1,7 @@
 import os
 import configparser
-
 from pathlib import Path
-import git
+
 import github
 from github import Github
 
